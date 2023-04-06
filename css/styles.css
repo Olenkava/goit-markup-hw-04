@@ -338,7 +338,7 @@ body {
 .teammate-soc-link:hover,
 .teammate-soc-link:focus,
 .teammate-soc-link:active {
-  background: var(--green-color);
+  background: var(--hover-color);
 }
 
 .customers {
